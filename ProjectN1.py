@@ -1,0 +1,7 @@
+print("Greetings! This is a calculator of average pace. At first you should print running kilometers and then time")
+km=float(input("Print running Kilometers:", ))
+t1=int(input("Print hours: ", ))
+t2=int(input("Print minutes: ", ))
+avm=int(t1*60/km)
+avs=float()
+print(avm)
